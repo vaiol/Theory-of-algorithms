@@ -6,7 +6,7 @@ All labs using Python 2 and some libraries for drawing charts.
 <hr>
 <h3>How to run</h3>
 <ol>
-<li>Required Python 2 (2.7.9)</li>
+<li>Required Python 2 (2.7.9+)</li>
 <li>Must be installed <a href="https://pypi.python.org/pypi/pip">PIP</a></li>
 <li>pip install six</li>
 <li>pip install python-dateutil</li>
@@ -20,6 +20,7 @@ All labs using Python 2 and some libraries for drawing charts.
 Implemented algorithms <b>bubble sort</b> and <b>insertion sort</b>. <br>
 Comparison of two algorithms in the number of "steps".
 <img src="https://raw.githubusercontent.com/vaiol/Theory-of-algorithms/master/Laba1/result.png"></img>
+<hr>
 <h3>Lab exercise №2</h3>
 Implemented algorithms <b>insertion sort</b>, <b>merge sort</b> and <b>hybrid sort</b>.  <br>
 Comparison of three algorithms in runtime.
