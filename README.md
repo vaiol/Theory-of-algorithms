@@ -19,9 +19,9 @@ All labs using Python 2 and some libraries for drawing charts.
 <h3>Lab exercise №1</h3>
 Implemented algorithms <b>bubble sort</b> and <b>insertion sort</b>. <br>
 Comparison of two algorithms in the number of "steps".
-<img href="https://raw.githubusercontent.com/vaiol/Theory-of-algorithms/master/Laba1/result.png"></img>
+<img src="https://raw.githubusercontent.com/vaiol/Theory-of-algorithms/master/Laba1/result.png"></img>
 <h3>Lab exercise №2</h3>
 Implemented algorithms <b>insertion sort</b>, <b>merge sort</b> and <b>hybrid sort</b>.  <br>
 Comparison of three algorithms in runtime.
-<img href="https://raw.githubusercontent.com/vaiol/Theory-of-algorithms/master/Laba2/result1.png"></img>
-<img href="https://raw.githubusercontent.com/vaiol/Theory-of-algorithms/master/Laba2/result2.png"></img>
+<img src="https://raw.githubusercontent.com/vaiol/Theory-of-algorithms/master/Laba2/result1.png"></img>
+<img src="https://raw.githubusercontent.com/vaiol/Theory-of-algorithms/master/Laba2/result2.png"></img>
