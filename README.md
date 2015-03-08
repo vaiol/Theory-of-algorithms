@@ -16,13 +16,17 @@ All labs using Python 2 and some libraries for drawing charts.
 <li>Run</li>
 </ol>
 <hr>
-<h3>Lab exercise №1</h3>
+<h3>University exercise №1</h3>
 Implemented algorithms <b>bubble sort</b> and <b>insertion sort</b>. <br>
 Comparison of two algorithms in the number of "steps".
 <img src="https://raw.githubusercontent.com/vaiol/Theory-of-algorithms/master/Laba1/result.png"></img>
 <hr>
-<h3>Lab exercise №2</h3>
+<h3>University exercise №2</h3>
 Implemented algorithms <b>insertion sort</b>, <b>merge sort</b> and <b>hybrid sort</b>.  <br>
 Comparison of three algorithms in runtime.
 <img src="https://raw.githubusercontent.com/vaiol/Theory-of-algorithms/master/Laba2/result1.png"></img>
 <img src="https://raw.githubusercontent.com/vaiol/Theory-of-algorithms/master/Laba2/result2.png"></img>
+<hr>
+<h3>Prometheus exercise №2</h3>
+The method of <b>Karatsuba</b> multiplication of two numbers. <br>
+It is also possible to count the number of occurrences of certain values amounts ad + bc throughout the paper the method of two given numbers. For example, if the ad + bc = 99 and it met 4 times during the method, it returns 4 ..
