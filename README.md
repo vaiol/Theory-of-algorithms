@@ -27,6 +27,11 @@ Comparison of three algorithms in runtime.
 <img src="https://raw.githubusercontent.com/vaiol/Theory-of-algorithms/master/Laba2/result1.png"></img>
 <img src="https://raw.githubusercontent.com/vaiol/Theory-of-algorithms/master/Laba2/result2.png"></img>
 <hr>
+<h3>University exercise №3</h3>
+Implemented algorithms <b>quick sort</b> and <b>randomized quick sort</b>.  <br>
+Comparison of two algorithms in runtime.
+<img src="https://raw.githubusercontent.com/vaiol/Theory-of-algorithms/master/Laba3/result1.png"></img>
+<hr>
 <h3>Prometheus exercise №1</h3>
 The method of <b>Karatsuba</b> multiplication of two numbers. <br>
 It is also possible to count the number of occurrences of certain values amounts ad + bc throughout the paper the method of two given numbers. For example, if the ad + bc = 99 and it met 4 times during the method, it returns 4 ..
